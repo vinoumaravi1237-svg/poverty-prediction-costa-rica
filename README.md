@@ -96,10 +96,3 @@ The model helps government agencies and NGOs identify **who needs support the mo
 MSc Economics and Analytics
 Christ (Deemed to be University), Delhi NCR
 
-# Complete Notebook
-The full code and results are available in this repository.
-
-
-Just tell me — I’ll help you finish it completely 😄
-# poverty-prediction-costa-rica
-Machine Learning project for poverty classification
